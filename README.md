@@ -1,24 +1,24 @@
-# README
+#　i-wish
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+自分のやってみたいことのリスト作る
+他の人のリストを閲覧する
 
-Things you may want to cover:
+### サイトテーマ
+「あなたのやってみたいことはなんですか？」
 
-* Ruby version
+### テーマを選んだ理由
+自分自身がこれからの人生でやったみたいことを考えている時に、自分以外の人はどんなことを考えているのだろうかと思い、このアプリを通じてやりたいことを可視化させようという思いから。
 
-* System dependencies
 
-* Configuration
+### ターゲットユーザ
+老若男女問わず全ての人たち
 
-* Database creation
+### 主な利用シーン
+日常でふとしたことなどから、やってみたいと思った時
 
-* Database initialization
+## 設計書
 
-* How to run the test suite
+### 機能一覧
+https://docs.google.com/spreadsheets/d/1GSFksWE-hrD5eTiS8GFh3pYbj08zqc2Yp5JYy4tNXZo/edit#gid=0
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
